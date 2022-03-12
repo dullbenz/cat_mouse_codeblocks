@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1647072786 source:c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\board.c
+	"board.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1647072786 c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\board.h
+	<stdbool.h>
+	<stdio.h>
+	"board_square.h"
+
+1647072786 c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\board_square.h
+	<stdbool.h>
+
+1647072786 source:c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\board_square.c
+	"board_square.h"
+
+1647072786 source:c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\data.c
+	"data.h"
+	<stdio.h>
+
+1647072786 c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\data.h
+	<stdio.h>
+
+1647072786 source:c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\general.c
+	"general.h"
+	<ctype.h>
+
+1647072786 c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\general.h
+	<stdbool.h>
+
+1647072786 source:c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\main.c
+	<stdio.h>
+	<stdbool.h>
+	"game.h"
+
+1647074871 c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\game.h
+
+1647072786 source:c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\move.c
+	"move.h"
+	"board.h"
+	<stdio.h>
+	<stdlib.h>
+
+1647072786 c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\move.h
+	<stdbool.h>
+	"board_square.h"
+
+1647072786 source:c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\player.c
+	"player.h"
+
+1647072786 c:\users\hacker\desktop\cat_and_mouse\cat_mouse_codeblocks\player.h
+	<stdbool.h>
+	"board_square.h"
+
